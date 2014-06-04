@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "awesome-share-buttons/version"
+require "awesome-share-buttons/lin/awesome_share_buttons/version"
 
 Gem::Specification.new do |s|
   s.name        = "awesome-share-buttons"
