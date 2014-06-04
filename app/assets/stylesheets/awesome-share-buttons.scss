@@ -1,0 +1,16 @@
+/*
+*
+*= require font-awesome.min
+*
+*/
+
+.awesome-share-buttons {
+  display: inline-block;
+  font-size: 40px;
+  a {
+    color: #000;
+    &:hover {
+      color: #00728f;
+    }
+  }
+}
