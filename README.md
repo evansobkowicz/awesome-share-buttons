@@ -21,7 +21,7 @@ coming soon
 In your `Gemfile`:
 
 ```ruby
-gem 'awesome-share-buttons'
+gem 'awesome-share-buttons', github: 'evansobkowicz/awesome-share-buttons'
 ```
 
 And install it:
@@ -48,13 +48,13 @@ You need add require lines to your css and js files in your app assets files:
 `app/assets/javascripts/application.coffee`
 
 ```
-#= require social-share-button
+#= require awesome-share-buttons
 ```
 
 `app/assets/stylesheets/application.scss`
 
 ```
-*= require social-share-button
+*= require awesome-share-buttons
 ```
 
 Then you can use `awesome_share_buttons` method helper in views, for example `app/views/posts/show.html.erb`
