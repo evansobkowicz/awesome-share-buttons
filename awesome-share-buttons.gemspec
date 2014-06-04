@@ -1,10 +1,10 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "lib/awesome_share_buttons/version.rb"
+#require "./lib/awesome_share_buttons/version.rb"
 
 Gem::Specification.new do |s|
   s.name        = "awesome-share-buttons"
-  s.version     = SocialShareButton::VERSION
+  s.version     = "0.1" #SocialShareButton::VERSION
   s.authors     = ["Evan Sobkowicz"]
   s.email       = ["evan@esobko.com"]
   s.homepage    = "http://github.com/evansobkowicz/awesome-share-buttons"
