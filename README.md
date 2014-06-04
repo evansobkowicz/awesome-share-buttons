@@ -99,3 +99,8 @@ Here are the mapping of attributes depending on you data-type parameter
 ## Demo
 
 coming soon
+
+## Thanks
+
+* Thanks to [Jason Lee](https://github.com/huacnlee) for the code from 'social-share-button' that this plugin is based on.
+* Thanks to [Font Awesome](http://fontawesome.io/) for the awesome icons!
