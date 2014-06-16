@@ -4,7 +4,7 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "awesome-share-buttons"
-  s.version     = "0.1" #SocialShareButton::VERSION
+  s.version     = AwesomeShareButtons::VERSION
   s.authors     = ["Evan Sobkowicz"]
   s.email       = ["evan@esobko.com"]
   s.homepage    = "http://github.com/evansobkowicz/awesome-share-buttons"
